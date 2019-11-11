@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-image: linear-gradient(to bottom right, blue, yellow);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul li {
+    text-align: center;
+    list-style: inside;
+}
+
+h3 {
+    text-align: center;
+}
+
+a {
+    text-align: center;
+}
+
+address {
+    text-align: center;
+}
